@@ -122,6 +122,7 @@ class App extends React.Component {
                             <Bar dataKey="usersChoices" fill="#8884d8"/>
                         </BarChart>
                     </div>
+                    Out of the three numbers, user will try and pick the roll he has picked the least. Tie goes to larger number.
                 </div>
             </div>
         );
