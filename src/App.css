@@ -1,3 +1,7 @@
+.chartHolder{
+  margin: auto;
+  width: fit-content;
+}
 .App {
   text-align: center;
 }
