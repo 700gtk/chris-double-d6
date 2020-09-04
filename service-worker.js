@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/chris-double-d6/precache-manifest.b4fc8ee4a2997d7aa3cd98cf1d36152d.js"
+  "/chris-double-d6/precache-manifest.0a22660a66cb6b0ae1ffb9bfc0996343.js"
 );
 
 self.addEventListener('message', (event) => {
