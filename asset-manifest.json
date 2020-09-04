@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chris-double-d6/static/css/main.e868fe69.chunk.css",
+    "main.js": "/chris-double-d6/static/js/main.48678dd9.chunk.js",
+    "main.js.map": "/chris-double-d6/static/js/main.48678dd9.chunk.js.map",
+    "runtime-main.js": "/chris-double-d6/static/js/runtime-main.60343c63.js",
+    "runtime-main.js.map": "/chris-double-d6/static/js/runtime-main.60343c63.js.map",
+    "static/js/2.330ed6fb.chunk.js": "/chris-double-d6/static/js/2.330ed6fb.chunk.js",
+    "static/js/2.330ed6fb.chunk.js.map": "/chris-double-d6/static/js/2.330ed6fb.chunk.js.map",
+    "index.html": "/chris-double-d6/index.html",
+    "precache-manifest.cd9708d98d9970852e64ec8d80f2d6fd.js": "/chris-double-d6/precache-manifest.cd9708d98d9970852e64ec8d80f2d6fd.js",
+    "service-worker.js": "/chris-double-d6/service-worker.js",
+    "static/css/main.e868fe69.chunk.css.map": "/chris-double-d6/static/css/main.e868fe69.chunk.css.map",
+    "static/js/2.330ed6fb.chunk.js.LICENSE.txt": "/chris-double-d6/static/js/2.330ed6fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60343c63.js",
+    "static/js/2.330ed6fb.chunk.js",
+    "static/css/main.e868fe69.chunk.css",
+    "static/js/main.48678dd9.chunk.js"
+  ]
+}
