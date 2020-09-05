@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d94040d23d41beff6d16f155d8cb4cc5",
+    "revision": "3e09b79189a919a56790265322aaab49",
     "url": "/chris-double-d6/index.html"
   },
   {
-    "revision": "9edd8385d80f69072648",
+    "revision": "eb651f57ebfd5bbac38d",
     "url": "/chris-double-d6/static/css/main.e868fe69.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/chris-double-d6/static/js/2.330ed6fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9edd8385d80f69072648",
-    "url": "/chris-double-d6/static/js/main.ac739028.chunk.js"
+    "revision": "eb651f57ebfd5bbac38d",
+    "url": "/chris-double-d6/static/js/main.6a29713d.chunk.js"
   },
   {
     "revision": "c1ead347b0b4454aa524",
